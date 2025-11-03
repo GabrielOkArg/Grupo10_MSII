@@ -2,5 +2,15 @@
 
 
 
-Chavez Santiago: se Agrego archivo "integrante\_Chavez.txt" con la info del integrante
+
+
+\## Integrantes y aportes
+
+
+
+\* \*\*Nombre:\*\* Santiago Chavez
+
+\* \*\*Usuario de GitHub:\*\* \[SantiagoChavez](https://github.com/SantiagoChavez)
+
+\* \*\*Contribución:\*\* Creación del archivo `integrante\_Chavez.txt` y actualización del README.
 
