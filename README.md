@@ -1,4 +1,4 @@
-# PruebaCI\_Silva
+﻿# PruebaCI\_Silva
 
 
 \## Integrantes y aportes
@@ -23,5 +23,11 @@
 
 \* \*\*Contribución:\*\* Creación del archivo `integrante_GonzaloRuiz.txt` y actualización del README.
 
+
+\* \*\*Nombre:\*\* Ruiz Sol
+
+\* \*\*Usuario de GitHub:\*\* \[ruizsolcudi](https://https://github.com/ruizsolcudi)
+
+\* \*\*Contribución:\*\* Creación del archivo `integrante\_ruizsol.txt` y actualización del README.
 
 
