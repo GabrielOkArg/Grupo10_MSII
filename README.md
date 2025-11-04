@@ -17,3 +17,11 @@
 
 \* \*\*Contribución:\*\* Creación del archivo `integrante_silva.txt` y actualización del README.
 
+\* \*\*Nombre:\*\* Ruiz Gonzalo
+
+\* \*\*Usuario de GitHub:\*\* \[SantiagoChavez](https://github.com/gonzaloruiz5166-create)
+
+\* \*\*Contribución:\*\* Creación del archivo `integrante_GonzaloRuiz.txt` y actualización del README.
+
+
+
