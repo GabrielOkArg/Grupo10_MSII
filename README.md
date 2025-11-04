@@ -1,7 +1,27 @@
-# PruebaCI_Delgado
+# PruebaCI\_Silva
 
-## Integrantes y aportes
 
-* **Nombre:** David Delgado  
-* **Usuario de GitHub:** [davidasad82](https://github.com/davidasad82)  
-* **Contribuci髇:** Creaci髇 del archivo `integrante_Delgado.txt` y actualizaci髇 del README.
+\## Integrantes y aportes
+
+
+
+\* \*\*Nombre:\*\* Santiago Chavez
+
+\* \*\*Usuario de GitHub:\*\* \[SantiagoChavez](https://github.com/SantiagoChavez)
+
+\* \*\*Contribuci贸n:\*\* Creaci贸n del archivo `integrante\_Chavez.txt` y actualizaci贸n del README.
+
+\* \*\*Nombre:\*\* Silva Eduardo
+
+\* \*\*Usuario de GitHub:\*\* \[SantiagoChavez](https://github.com/GabrielOkArg)
+
+\* \*\*Contribuci贸n:\*\* Creaci贸n del archivo `integrante_silva.txt` y actualizaci贸n del README.
+
+\* \*\*Nombre:\*\* Ruiz Gonzalo
+
+\* \*\*Usuario de GitHub:\*\* \[SantiagoChavez](https://github.com/gonzaloruiz5166-create)
+
+\* \*\*Contribuci贸n:\*\* Creaci贸n del archivo `integrante_GonzaloRuiz.txt` y actualizaci贸n del README.
+
+
+
