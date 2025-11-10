@@ -31,3 +31,9 @@
 \* \*\*Contribución:\*\* Creación del archivo `integrante\_ruizsol.txt` y actualización del README.
 
 
+\* \*\*Nombre:\*\* Ortiz Ramiro
+
+\* \*\*Usuario de GitHub:\*\* \[OrtizRamiro](https://github.com/ramiroortizlobo100-max)
+
+\* \*\*Contribución:\*\* Creación del archivo `integrante_Ortiz.txt` y actualización del README.
+
